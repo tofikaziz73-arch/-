@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">تذكيراتي</string>
+    <string name="accessibility_description">يراقب انتقالك إلى واتساب فقط لعرض تذكيرك. لا يقرأ الرسائل أو محتوى الشاشة.</string>
+</resources>
